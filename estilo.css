@@ -13,12 +13,13 @@ html, body {
 }
 #titulo {
     color: rgb(8, 5, 0);
-    padding-top: 30%;
+    padding-top: 20%;
     align: middle;
 }
 
 #subtitulo {
     color: #071019;
+    padding-top: 20$;
     padding-left: 20%;
     padding-right: 20%;
 }
