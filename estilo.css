@@ -1,0 +1,50 @@
+html, body {
+    margin: 0;
+} 
+#imagem_fundo {
+    background: url(img.jpg);
+    background-image:cover 100%;
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+    background-repeat:no-repeat;
+    width: 100%;
+    height:100%
+}
+#titulo {
+    color: rgb(8, 5, 0);
+    padding-top: 30%;
+}
+
+#subtitulo {
+    color: #071019;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.icone {
+    width: 50%;
+    height: 50%;
+}
+#doenças {
+    background-color:#E0F8F7;
+    float: left;
+}
+#saneamento {
+    padding: 20px;
+    background-color: #E0F8F7;
+}
+#agua-disponivel {
+    padding: 20px;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.justificado {
+    text-align:justify;
+}
+.centralizado {
+    text-align:center;
+}
