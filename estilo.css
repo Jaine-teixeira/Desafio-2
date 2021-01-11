@@ -14,6 +14,7 @@ html, body {
 #titulo {
     color: rgb(8, 5, 0);
     padding-top: 30%;
+    align: middle;
 }
 
 #subtitulo {
